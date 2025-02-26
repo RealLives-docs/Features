@@ -1,5 +1,3 @@
-## 🌍 RealLives Business with Purpose Platform (Coming Soon)  
-
 ## What is RealLives Business with Purpose Platform?  
 
 The **RealLives Business with Purpose Platform** is a groundbreaking initiative designed to empower students and aspiring changemakers to build **socially responsible and sustainable businesses**.  
